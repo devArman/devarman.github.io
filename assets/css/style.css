@@ -198,6 +198,7 @@ header {
     transform: translateX(-50%);
     z-index: 2;
     font-size: 13px;
+    white-space: nowrap;
 }
 
 @media only screen and (max-width: 768px){
@@ -231,6 +232,6 @@ header {
         font-size: 18px;
     }
     header p {
-        grid-gap: 20px;
+        grid-gap: 10px;
     }
 }
