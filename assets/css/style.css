@@ -7,7 +7,7 @@ body, html {
     overflow: hidden;
     background-color: #87CEEB; /* Небо */
     position: relative;
-    height: 100vh;
+    height: 100%;
 }
 body {
     font-family: "Open Sans", sans-serif;
