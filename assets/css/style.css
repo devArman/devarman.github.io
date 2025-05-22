@@ -5,7 +5,7 @@ body, html {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #fff; 
+    background-color: #fff;
     position: relative;
     height: 100%;
 }
@@ -159,7 +159,7 @@ header {
 .wheel img {
     width: 72px;
     height: 72px;
-    animation: rotateWheel 1s linear infinite;
+    animation: rotateWheel 1.5s linear infinite;
 }
 .back-wheel {
     left: -165px;
