@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Artsakh Font';
+    src: url('../fonts/ArtsakhFont/ArtsakhFontRegular.woff2') format('woff2'),
+    url('../fonts/ArtsakhFont/ArtsakhFontRegular.woff') format('woff'),
+    url('../fonts/ArtsakhFont/ArtsakhFontRegular.svg#ArtsakhFontRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ArTarumianErevanU';
+    src: url('../fonts/ArTarumianErevanU/ArTarumianErevanU.woff2') format('woff2'),
+    url('../fonts/ArTarumianErevanU/ArTarumianErevanU.woff') format('woff'),
+    url('../fonts/ArTarumianErevanU/ArTarumianErevanU.svg#ArTarumianErevanU') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
